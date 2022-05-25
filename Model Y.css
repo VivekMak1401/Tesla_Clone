@@ -1,0 +1,150 @@
+.logo{
+    float:none;
+    font-size: 40px;
+    margin-bottom: 40px;
+    padding: 20px 20px;
+}
+
+.header__announcement {
+    padding: 1rem;
+    background-color: rgb(223, 215, 146);
+    text-align: center;
+    margin-top: -7px;
+    margin-bottom: -8px;
+  }
+
+.header__nav-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 14px 2px;
+    margin-bottom: -579px;
+  }
+
+.header__nav {
+    position: relative;
+    display: flex;
+  }
+
+.header__nav a {
+    color:purple;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    background-color:white;
+    margin-bottom: 10px;
+  }
+
+.ispec3{
+    margin-top: 560px;
+    margin-left: 435px;
+    color:black;
+  }
+
+.headerimg {
+    width: 141%;
+    height: 10%;
+    margin-left: -436px;
+    margin-bottom: -119px;
+
+  }
+
+.slide_1 {
+  text-align:left;
+  font-size: 30px;
+  font-weight: bold;
+  color: grey;
+ }
+
+.ispec4{
+  margin-top: 13px;
+  margin-left: 435px;
+  color:black;
+ }
+.model_y2 {
+    width: 141%;
+    height: 10%;
+    margin-left: -436px;
+    margin-bottom: -150px;
+
+  }
+
+.table1 td, th {
+    padding: 20px;
+    text-align: left;
+    background-color: white;
+    color: black;
+  }
+
+.para {
+  margin-top: -20px;
+  margin-bottom: 10px;
+  }
+.para  p b {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+
+.button {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 2px;
+    border-radius: 12px;
+  }
+
+.table2 td th {
+    padding:10px;
+    text-align: left;
+    color: black;
+    margin-top: -30px;
+  }
+
+.table3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  }  
+
+.tablehead {
+  text-align: center;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color:black;
+  color: white;
+  padding: 8px;
+  }
+
+.table4 td  {
+  text-align: center;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  }
+
+.footer {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:12pt;
+  margin-top: 10px;
+  margin-bottom: 10px;
+ }
+
+.creator {
+  text-align: center;
+  color: gray;
+  padding: 10px;
+}
+
+.a visited {
+   color: blue;
+ }
+
+ .a hover {
+   color: red;
+ }
+
+ .a unvisited {
+   color: purple;
+ }

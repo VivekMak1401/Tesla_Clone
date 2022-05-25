@@ -1,0 +1,89 @@
+.logo{
+    float:none;
+    font-size: 40px;
+    margin-bottom: 40px;
+    padding: 20px 20px;
+}
+
+.header__announcement {
+    padding: 1rem;
+    background-color: rgb(223, 215, 146);
+    text-align: center;
+    margin-top: -7px;
+    margin-bottom: -8px;
+  }
+
+.header__nav-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 14px 2px;
+    margin-bottom: -579px;
+  }
+
+.header__nav {
+    position: relative;
+    display: flex;
+  }
+
+.header__nav a {
+    color:purple;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    background-color:white;
+    margin-bottom: 10px;
+  }
+
+.ispec3{
+    margin-top: 560px;
+    margin-left: 435px;
+    color:black;
+  }
+
+.headerimg {
+    width: 141%;
+    height: 10%;
+    margin-left: -436px;
+    margin-bottom: -119px;
+}
+
+.slide_1{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+ 
+.table{
+  padding: 20px;
+  word-spacing: 2px;
+  width: 80%;
+  margin-left: 265px;
+  margin-right: auto;
+}
+
+.footer {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:12pt;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.creator {
+  text-align: center;
+  color: gray;
+  padding: 10px;
+}
+
+.a visited {
+  color: blue;
+}
+
+.a hover {
+  color: red;
+}
+
+.a unvisited {
+  color: purple;
+}
+
